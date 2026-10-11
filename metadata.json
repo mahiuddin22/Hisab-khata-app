@@ -1,0 +1,6 @@
+{
+  "name": "হিসাব খাতা",
+  "description": "প্রিমিয়াম হিসাব খাতা ও ব্যয় ট্র্যাকার। দৈনিক খরচ, মাসিক বাজেট গ্রাফ, ব্যক্তিগত দেনা-পাওনা, পিডিএফ রিপোর্ট ও বায়োমেট্রিক নিরাপত্তা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
